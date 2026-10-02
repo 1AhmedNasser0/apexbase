@@ -473,7 +473,7 @@ export const subjects = [
         url: 'https://drive.google.com/drive/folders/1x4zDM_f5jXZKqtZbBXmccgJeUz25ZYfG?usp=sharing',
       },
       {
-        id: 'Data-Structures2-Summaries-folder',
+        id: 'Data-Structures-2-Summaries-folder',
         title: 'Summary Folder ',
         type: 'Summary',
         section: '',
