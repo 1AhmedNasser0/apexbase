@@ -64,7 +64,7 @@ export const subjects = [
       },
       {
         id: 'os-Lectures-folder',
-        title: 'Lecture Folder ',
+        title: 'Lecture Folder 1 ',
         type: 'Lecture',
         section: '',
         date: '2026-10-01',
