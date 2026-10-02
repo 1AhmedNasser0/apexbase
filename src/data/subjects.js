@@ -15,7 +15,11 @@
 //   url: 'https://drive.google.com/YOUR_REAL_SHARED_LINK',
 // }
 // Do not publish placeholder links. Subjects below start with empty resource lists
-// because no real resource links were supplied.
+// // because no real resource links were supplied.
+//------------------------------------------------------------------------------------------
+// git add .
+// git commit -m "update project"
+// git push
 
 export const specializationOptions = ['AI', 'CS', 'IT'];
 export const termOptions = ['First Term', 'Second Term', 'Unassigned'];
@@ -60,7 +64,7 @@ export const subjects = [
       },
       {
         id: 'os-Lectures-folder',
-        title: 'Lectures Folder ',
+        title: 'Lecture Folder ',
         type: 'Lecture',
         section: '',
         date: '2026-10-01',
