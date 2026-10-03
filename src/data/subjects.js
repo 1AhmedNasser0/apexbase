@@ -18,8 +18,8 @@
 // // because no real resource links were supplied.
 //------------------------------------------------------------------------------------------
 // git add .
-// git commit -m "update project"
-// git push
+// git commit -m "اكتب هنا وصف للتعديل اللي عملته"
+// git push origin main
 
 export const specializationOptions = ['AI', 'CS', 'IT'];
 export const termOptions = ['First Term', 'Second Term', 'Unassigned'];
@@ -58,7 +58,7 @@ export const subjects = [
         type: 'Book',
         section: '',
         date: '2026-10-01',
-        description: 'الاجزاء المتعلمة باللون الاصفر في مادة os ',
+        description: 'الاجزاء المتعلمة باللون الاصفر في مادة (os) ',
         linkType: 'Google Drive',
         url: 'https://drive.google.com/file/d/1zHOE2kTKaeWRb1rGj-CskgXKpL5o0rx6/view?usp=sharing',
       },
