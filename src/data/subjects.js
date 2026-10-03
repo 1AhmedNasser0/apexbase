@@ -52,6 +52,16 @@ export const subjects = [
     specializations: ['AI', 'CS', 'IT'],
     term: '[First Term]',
     resources: [
+            {
+        id: 'os-Book2-pdf',
+        title: 'الاجزاء المهمة في كتاب نظم التشغيل  ',
+        type: 'Book',
+        section: '',
+        date: '2026-10-01',
+        description: 'الاجزاء المتعلمة باللون الاصفر في مادة os ',
+        linkType: 'Google Drive',
+        url: 'https://drive.google.com/file/d/1zHOE2kTKaeWRb1rGj-CskgXKpL5o0rx6/view?usp=sharing',
+      },
       {
         id: 'os-Book-pdf',
         title: 'OS Book pdf ',
